@@ -1,0 +1,53 @@
+body {
+    background-color:#ffffee;
+    color:#800000;
+}
+
+a {
+    color:#0000ee;
+}
+
+a:visited {
+    color:#0000ee;
+}
+
+.rtd {
+    background-color: #F0E0D6;
+    padding-right:5px;
+}
+
+.rts {
+    vertical-align:top;
+    width:18px;
+}
+
+.implying {
+    color: #789922;
+}
+
+.fl {
+    background-color: #ea8;
+    width:4.5em;
+}
+
+#info {
+    font-size:small;
+    max-width:75%;
+    margin-bottom:50px;
+}
+
+#pb {
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+
+.adminpost {
+    font-style:italic;
+    color:red;
+    font-family:sans-serif;
+}
+
+#deleteform {
+    float:right;
+}
